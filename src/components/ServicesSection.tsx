@@ -1,8 +1,8 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import customDesignIcon from "@/assets/custom-design-icon.png";
-import precisionIcon from "@/assets/precision-icon.png";
-import deliveryIcon from "@/assets/delivery-icon.png";
+import customDesignIcon from "@/assets/custom-design-icon.jpg";
+import precisionIcon from "@/assets/precision-icon.jpg";
+import deliveryIcon from "@/assets/delivery-icon.jpg";
 
 const services = [
   {
